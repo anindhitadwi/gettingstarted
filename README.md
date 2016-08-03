@@ -1,6 +1,6 @@
 # gettingstarted
 
-git clone https://gitlab.com/salsanads/basdat-sukses.git
+git clone https://github.com/namaakun/namarepositori.git
 
 kl mau ngerjain:
 git pull
