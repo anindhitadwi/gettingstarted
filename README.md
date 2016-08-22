@@ -11,3 +11,4 @@ git add . (. kl semuanya yg berubah diupload)
 git add [nama-file] (kl cuma file tertentu)
 git commit -m “[pesannya, deskriptifnya wkwk]”
 git push (upload ke server)
+
